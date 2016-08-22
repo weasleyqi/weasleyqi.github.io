@@ -5,9 +5,6 @@ date: 2016-08-21 14:55:01
 tags: iOS Tips
 ---
 
-How to use Git
------
-<br>
 （1）git clone 服务器用户名@服务器IP:~/Git目录/.git
  
         功能：下载服务器端Git仓库中的文件或目录到本地当前目录。

@@ -1,9 +1,9 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: Weasley’s Blog
+subtitle: 人走茶凉，乘热饮用
+welcome_message: <a href="http://blog.csdn.net/weasleyqi" target="_blank">My CSDN Blog</a>
+description: Hi,I’m weasley.a iOS engineer lived in SuZhou. Welcome to my blog.
+creator: <a href="http://onev.cat”>@weasley</a>
 
 url: "http://vno.onevcat.com"
 
@@ -20,7 +20,7 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: Weasley’s Blog
     description: Visit blog
 
 # Navigation buttons in the front page.
@@ -40,11 +40,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: Me-童鞋
+    github: weasleyqi
+    twitter: weasleyqi
+    gplus: weasleyqi
+    mail: weasleyqi@gmail.com
 
 # Google Analytics
 ga:

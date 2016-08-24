@@ -5,7 +5,6 @@ date: 2016-08-23
 ---
 
 在项目的开发过程中我们经常会遇到要开发两个版本，一个是测试，一个是正式版，两个版本对应的bundleid、API路径都不一致，每次打包都需要修改好多东西，一不小心还有可能出错，甚至会出现非常严重的后果。为此，在一个project中添加多个Target可以完美的解决这个烦恼。接下来我就简单的给大家介绍下步骤。
-<br>
 首先，先建一个singleView的Project。
 
 ![](/assets/2016/mt01.png)
@@ -36,10 +35,9 @@ date: 2016-08-23
 
 接下来，我们就可以同时部署两套证书啦。
 在代码中进行Target的判断。
-```Objective-C
+
+```
 #ifdef MultiTargetDemo
-//MultiTargetDemo的代码
 #else
-//其他代码
 #endif
 ```

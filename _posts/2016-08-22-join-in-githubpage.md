@@ -2,6 +2,7 @@
 layout: post
 title: 加入Github Page
 date: 2016-08-22 20:33:33
+tags: 杂
 ---
 Github Page真心是个好东西，几年前也有接触到，但是那时候jkeyll的资源还不算多，加之本人的html知识相对空缺，所以也一直未考虑此事。
 好在，Github是个非常好的开源平台，有[OneV](https://onevcat.com)这样的大神存在，本人从中学到很多的无价之宝，也往Github上贡献了一点点心意（虽然我的知识很肤浅）。。。

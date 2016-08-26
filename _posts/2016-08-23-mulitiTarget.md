@@ -10,7 +10,7 @@ tags: iOSTips
 
 ![](/assets/2016/mt01.png)
 
-我们从新建好的工程中可以看出，目前只有一个target。我们需要再建一个，鼠标点击当前的Target，然后右击，有个Duplicate。
+我们从新建好的工程中可以看出，目前只有一个target。我们需要再建一个，鼠标点击当前的Target，然后右击，有个`Duplicate`。
 
 ![](/assets/2016/mt02.png)
 
@@ -18,11 +18,11 @@ tags: iOSTips
 
 ![](/assets/2016/mt03.png)
 
-此时，我们从工程中可以看出，多了一个MultiTargetDemo copy的Target，并且多在工程的导航处多了一个MultiTargetDemo copy-Info.plist的文件，这个plist文件就是对应copy的target的，我们修改下名称。
+此时，我们从工程中可以看出，多了一个`MultiTargetDemo copy`的Target，并且多在工程的导航处多了一个`MultiTargetDemo copy-Info.plist`的文件，这个plist文件就是对应copy的target的，我们修改下名称。
 
 ![](/assets/2016/mt04.png)
 
-重命名之后，target找不到plist文件了，我们可以看到target页面中有个Choose Info.plist的按钮
+重命名之后，target找不到plist文件了，我们可以看到target页面中有个`Choose Info.plist`的按钮
 
 ![](/assets/2016/mt05.png)
 
@@ -30,7 +30,7 @@ tags: iOSTips
 
 ![](/assets/2016/mt06.png)
 
-你以为到这就结束了？NO No No，我们看看Scheme，Scheme的名字还是以copy结尾的那个名字，我们需要对这边也修改下。点击Scheme的Manage Schemes，修改Scheme的名字。
+你以为到这就结束了？NO No No，我们看看Scheme，Scheme的名字还是以copy结尾的那个名字，我们需要对这边也修改下。点击Scheme的`Manage Schemes`，修改Scheme的名字。
 
 ![](/assets/2016/mt01.png)
 
